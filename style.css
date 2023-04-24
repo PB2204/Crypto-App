@@ -1,0 +1,41 @@
+
+.NavBar{
+    background-color: rgb(1, 29, 41);
+    height:75px;
+    padding:10px
+}
+
+.Brand{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.coin{
+    margin: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.upper{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.lower{
+    padding: 10px;
+}
+
+.content{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(206, 247, 233);
+}
+
+
+.upper{
+    background-color: black;
+}
